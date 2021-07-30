@@ -1,4 +1,12 @@
 {
+    "name": "root/crud_admin",
+    "description": "crud-admin for book and author",
+    "authors": [
+        {
+            "name": "Shahrom",
+            "email": "shahrommusaev@gmail.com"
+        }
+    ],
     "type": "project",
     "license": "proprietary",
     "require": {
